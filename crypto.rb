@@ -48,5 +48,3 @@ puts "Il y a #{n} cryptomonnaies qui ont coin dans leur nom."
 end
 
 number_coin(crypval_withoutdollar)
-
-# la method globale#
